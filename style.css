@@ -1,7 +1,10 @@
 #ball{
-background-color: brown;
-width: 70px;
-height: 70px;
+image-rendering: pixelated;
+background-image: url(naruto.gif);
+background-size: 50%;
+background-repeat: no-repeat;
+width: 300px;
+height: 300px;
 position: absolute;
 left: 5px;
 top: 5px;
